@@ -17,4 +17,5 @@ class AppString {
   static const success = "Congratulations on adding!";
   static const alertTitle = "Success";
   static const back = "back";
+  static const welcomeText = "Mobile Version";
 }
